@@ -376,6 +376,7 @@ body{
         margin: 0;
         padding: 50px;
         justify-content: center;
+        max-height: 60vw;
     }
 
     .abovebar{
