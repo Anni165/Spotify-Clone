@@ -193,7 +193,7 @@ body{
     margin: 10px;
     overflow: auto;
     overflow-y: auto;
-    max-height: 70vh;
+    max-height: 60vh;
     padding-bottom: 144px;
 }
 
@@ -377,7 +377,7 @@ body{
         margin: 0;
         padding: 50px;
         justify-content: center;
-        max-height: 60vw;
+        max-height: 60vh;
     }
 
     .abovebar{
@@ -397,7 +397,7 @@ body{
 
 @media (max-width: 450px){
     .card{
-        width: 100vw;
+        width: auto;
     }
     .cardContainer{
         padding-bottom: 20px;

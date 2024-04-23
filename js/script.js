@@ -31,8 +31,6 @@ async function getSongs(folder) {
     }
   }
 
-  //play first song
-
   //show all the songs in the playlist
   let songul = document.querySelector(".songbox").getElementsByTagName("ul")[0];
   songul.innerHTML=""
